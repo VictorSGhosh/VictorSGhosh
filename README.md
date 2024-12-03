@@ -62,10 +62,10 @@
 <a href="https://www.credly.com/badges/2e5963c8-4015-4f6f-af82-03c8b8dbcaab/public_url" target="_blank">
   <img src="Badges/MTA Logo - Python.png" alt="Microsoft Certification Badge" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/9168171a-89ca-4fe8-b62d-35cf8d1e2136/public_url" target="_blank">
+<a href="https://www.credly.com/badges/321c7f04-84d0-472a-bcc2-f9d2b390cf57/public_url" target="_blank">
   <img src="Badges/MTA Logo - JavaScript.png" alt="Microsoft Certification Badge" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/321c7f04-84d0-472a-bcc2-f9d2b390cf57/public_url" target="_blank">
+<a href="https://www.credly.com/badges/9168171a-89ca-4fe8-b62d-35cf8d1e2136/public_url" target="_blank">
   <img src="Badges/MTA Logo - HTML & CSS.png" alt="Microsoft Certification Badge" width="150"/>
 </a>
 

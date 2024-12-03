@@ -54,7 +54,7 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F6587FDC9321328C29A409A08BA725610098E779A36DD6677B71C1261CB693BF" target="_blank">
   <img src="Badges/OCA Logo - Java SE8.jpg" alt="Oracle Certified Associate Badge" width="150"/>
 </a>
-<a href="https://www.credly.com/badges/405d0fb1-efe7-4f45-9ed1-fb1a8e6db56b/public_url" target="_blank">
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC2AA1C1D9535F310C6294327043AD7D89BA8199CE99B43410B8D76186B6019C" target="_blank">
   <img src="Badges/OCFA Logo - Database.jpg" alt="Oracle Certified Foundations Associate Badge" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/405d0fb1-efe7-4f45-9ed1-fb1a8e6db56b/public_url" target="_blank">

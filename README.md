@@ -46,7 +46,7 @@
 ## Credential Badges
 
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6587FDC9321328C29A409A08BA725610098E779A36DD6677B71C1261CB693BF" target="_blank">
-  <img src="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6587FDC9321328C29A409A08BA725610098E779A36DD6677B71C1261CB693BF" alt="Oracle Certification Badge" />
+  <img src="https://drive.google.com/uc?id=1AO2v_22LKEY2ozs8iW7iwY_Fa9iOgMRH" alt="Oracle Certification Badge" />
 </a>
 
 ---

@@ -45,8 +45,29 @@
 ---
 ## Credential Badges
 
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6587FDC9321328C29A409A08BA725610098E779A36DD6677B71C1261CB693BF" target="_blank">
-  <img src="https://drive.google.com/uc?id=1AO2v_22LKEY2ozs8iW7iwY_Fa9iOgMRH" alt="Oracle Certification Badge" />
+### AWS
+<a href="https://www.credly.com/badges/your-aws-badge-id" target="_blank">
+  <img src="Badges/aws-logo.png" alt="AWS Certification Badge" width="150"/>
+</a>
+
+### Oracle
+<a href="https://www.credly.com/badges/your-oracle-badge-id" target="_blank">
+  <img src="Badges/oracle-logo.png" alt="Oracle Certification Badge" width="150"/>
+</a>
+
+### Microsoft
+<a href="https://www.credly.com/badges/your-microsoft-badge-id" target="_blank">
+  <img src="Badges/microsoft-logo.png" alt="Microsoft Certification Badge" width="150"/>
+</a>
+
+### CompTIA
+<a href="https://www.credly.com/badges/bdfcc908-8295-4e08-b536-d562b55d7307/public_url" target="_blank">
+  <picture>
+      <!-- Dark mode logo -->
+      <source media="(prefers-color-scheme: dark)" srcset="Badges/ITF+ Logo Certified WHITE.png">
+      <!-- Light mode logo -->
+      <img src="Badges/ITF+ Logo Certified BLACK.png" alt="CompTIA ITF+ Badge" width="150"/>
+  </picture>
 </a>
 
 ---

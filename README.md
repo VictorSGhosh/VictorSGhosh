@@ -81,35 +81,8 @@
   </tr>
 </table>
 
-
-[//]: # (- **Languages**: Python, Java, SQL, Bash  )
-
-[//]: # (- **Databases**: PostgresSQL, MySQL, MongoDB)
-
-[//]: # (- **Cloud**: AWS, Salesforce, Azure)
-
-[//]: # (- **Web & API Technologies**: REST API)
-
-[//]: # (- **GUI Frameworks**: Swing, JavaFX, Tkinter )
-
-[//]: # (- **Data Formats**: JSON, YAML, XML)
-
-[//]: # (- **Version Control**: GitHub, BitBucket, SVN)
-
-[//]: # (- **Testing Tools**: Postman)
-
-[//]: # (- **DevOps Tools**: Docker, Kubernetes, Jenkins  )
-
-[//]: # (- **Project Management**: Jira, Monday)
-
-[//]: # (- **Operating Systems**: Unix, Linux, Windows, macOS)
-
-[//]: # (- **Other**: Git, Agile/Scrum  )
-
-
-
 ---
-## Credential Badges
+## 🏅 Credential Badges
 
 ### Amazon Web Services
 <a href="https://www.credly.com/badges/7e3695cb-427c-4bdb-919d-2e99e792d8aa/public_url" target="_blank">

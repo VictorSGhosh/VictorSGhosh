@@ -36,6 +36,7 @@
 - **Web & API Technologies**: REST API
 - **GUI Frameworks**: Swing, JavaFX, Tkinter 
 - **Data Formats**: JSON, YAML, XML
+- **Version Control**: GitHub, BitBucket, SVN
 - **Testing Tools**: Postman
 - **DevOps Tools**: Docker, Kubernetes, Jenkins  
 - **Project Management**: Jira, Monday
@@ -121,32 +122,42 @@
 
 
 ## 🌱 Recent Projects  
-- **[Coin Change Optimizer](https://github.com/your-repo)**  
-  A Python solution with **memoization** for the classic dynamic programming problem.  
-- **[Bicycle Route Tracker](https://github.com/your-repo)**  
-  Built a personal project to visualize and optimize cycling routes.  
+- **[HDFS vs Relational Database -- A Performance Comparison Analysis](https://github.com/VictorSGhosh/NYC_StreetCensus_HDFS)**  
+  In this paper, we ran a series of heavy-duty CRUD tests on a sample csv data from NYC Street Tree Census Report (2015) on relational database and its equivalent counterpart on HDFS system and then compared the performance and each use case against each other  
+- **[ScarletElectronics : an E-Commerce Platform for General Electronics](https://github.com/VictorSGhosh/Scarlet_ECommerce)**  
+  A **Node.js** & **Servlet**-based Ecommerce Platform that is specialized on selling of Electronics with the help of **JWT** for web-user authentication and 3rd-party API integrations like **Stripe API** for payment processing and EasyPost API for deliveries  
 
 ---
 
 ## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/victor-sankar-ghosh" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30">
 </a>
 <a href="https://www.hackerrank.com/VictorSGhosh" target="_blank" style="display:inline-block; margin: 0px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="30">
+  <img src="Icons/HackerRank.png" alt="HackerRank" height="30" width="30">
 </a>
 <a href="https://leetcode.com/VictorSG/" target="_blank" style="display:inline-block; margin: 0px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30">
+  <img src="Icons/Leetcode.svg" alt="LeetCode" height="30" width="30">
+</a>
+<a href="https://www.hackerearth.com/@victorsankarghosh95" target="_blank" style="display:inline-block; margin: 0px;">
+  <img src="Icons/HackerEarth.gif" alt="HackerEarth" height="30" width="30">
+</a>
+<a href="https://www.codechef.com/users/victor_s_ghosh" target="_blank" style="display:inline-block; margin: 0px;">
+  <img src="Icons/CodeChef.png" alt="CodeChef" height="30" width="30">
 </a>
 <a href="https://stackoverflow.com/users/7634312/victor-sankar-ghosh" target="_blank" style="display:inline-block; margin: 0px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow" width="30">
+  <img src="Icons/StackOverflow.svg" alt="StackOverflow" height="30" width="30">
+</a>
+<a href="https://profile.indeed.com/p/victorg-fmqvcpv" target="_blank" style="display:inline-block; margin: 0px;">
+  <img src="Icons/Indeed.png" alt="Indeed" height="30" width="30">
 </a>
 
 ---
 
 ## 🏆 Fun Facts  
-- 🚲 I bike everywhere instead of using a car.  
-- 📈 I enjoy solving complex problems and finding efficient solutions.  
+- 🍀 Born in Ireland but raised in India, blending a unique mix of cultural experiences.
+- 🗣️ Tri-lingual: Fluent in English, Bengali, and Hindi and looking to include a 4th to broaden language skills 
+- 🚲 I bike everywhere instead of using a car.
 - 🌟 Favorite quote: *"The best way to predict the future is to invent it."*  
 
 ---

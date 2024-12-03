@@ -30,18 +30,83 @@
 
 ---
 ## 💻 Skills & Tools  
-- **Languages**: Python, Java, SQL, Bash  
-- **Databases**: PostgresSQL, MySQL, MongoDB,
-- **Cloud**: AWS, Salesforce, Azure
-- **Web & API Technologies**: REST API
-- **GUI Frameworks**: Swing, JavaFX, Tkinter 
-- **Data Formats**: JSON, YAML, XML
-- **Version Control**: GitHub, BitBucket, SVN
-- **Testing Tools**: Postman
-- **DevOps Tools**: Docker, Kubernetes, Jenkins  
-- **Project Management**: Jira, Monday
-- **Operating Systems**: Unix, Linux, Windows, macOS
-- **Other**: Git, Agile/Scrum  
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <strong>Languages:</strong> Python, Java, SQL, Bash  
+    </td>
+    <td style="width: 50%; vertical-align: top;">      
+      <strong>Package Repositories:</strong> Anaconda Cloud, PyPI
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>Databases:</strong> PostgresSQL, MySQL, MongoDB
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Version Control:</strong> GitHub, BitBucket, SVN
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>Cloud:</strong> AWS, Salesforce, Azure
+    </td>
+    <td style="vertical-align: top;">
+      <strong>DevOps Tools:</strong> Docker, Kubernetes, Jenkins  
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>Web & API Technologies:</strong> REST API
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Testing Tools:</strong> Postman
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>GUI Frameworks:</strong> Swing, JavaFX, Tkinter 
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Project Management:</strong> Jira, Monday.com 
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>Data Formats:</strong> JSON, YAML, XML
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Operating Systems:</strong> Unix, Linux, Windows, macOS  
+    </td>
+  </tr>
+</table>
+
+
+[//]: # (- **Languages**: Python, Java, SQL, Bash  )
+
+[//]: # (- **Databases**: PostgresSQL, MySQL, MongoDB)
+
+[//]: # (- **Cloud**: AWS, Salesforce, Azure)
+
+[//]: # (- **Web & API Technologies**: REST API)
+
+[//]: # (- **GUI Frameworks**: Swing, JavaFX, Tkinter )
+
+[//]: # (- **Data Formats**: JSON, YAML, XML)
+
+[//]: # (- **Version Control**: GitHub, BitBucket, SVN)
+
+[//]: # (- **Testing Tools**: Postman)
+
+[//]: # (- **DevOps Tools**: Docker, Kubernetes, Jenkins  )
+
+[//]: # (- **Project Management**: Jira, Monday)
+
+[//]: # (- **Operating Systems**: Unix, Linux, Windows, macOS)
+
+[//]: # (- **Other**: Git, Agile/Scrum  )
+
+
 
 ---
 ## Credential Badges

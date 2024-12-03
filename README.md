@@ -51,40 +51,46 @@
 </a>
 
 ### Oracle
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F6587FDC9321328C29A409A08BA725610098E779A36DD6677B71C1261CB693BF" target="_blank">
+  <img src="Badges/OCA Logo - Java SE8.jpg" alt="Oracle Certified Associate Badge" width="150"/>
+</a>
 <a href="https://www.credly.com/badges/405d0fb1-efe7-4f45-9ed1-fb1a8e6db56b/public_url" target="_blank">
-  <img src="Badges/OCFA Logo - Java.png" alt="Oracle Certification Badge" width="150"/>
+  <img src="Badges/OCFA Logo - Database.jpg" alt="Oracle Certified Foundations Associate Badge" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/405d0fb1-efe7-4f45-9ed1-fb1a8e6db56b/public_url" target="_blank">
+  <img src="Badges/OCFA Logo - Java.png" alt="Oracle Certified Foundations Associate Badge" width="160"/>
 </a>
 
 ### CompTIA
 <a href="https://www.credly.com/badges/bdfcc908-8295-4e08-b536-d562b55d7307/public_url" target="_blank">
   <picture>
-      <img src="Badges/ITF+ Logo Certified WHITE.png" alt="CompTIA ITF+ Badge" width="150"/>
+      <img src="Badges/ITF+ Logo Certified WHITE.png" alt="CompTIA Certified ITF+ Badge" width="150"/>
   </picture>
 </a>
 <a href="https://www.credly.com/badges/205141e5-76fc-4e96-9a51-f1e803b5d8ad/public_url" target="_blank">
   <picture>
-      <img src="Badges/Cloud Essentials+ Logo Certified WHITE.png" alt="CompTIA ITF+ Badge" width="150"/>
+      <img src="Badges/Cloud Essentials+ Logo Certified WHITE.png" alt="CompTIA Certified Cloud Essentials+ Badge" width="150"/>
   </picture>
 </a>
 
-### Microsoft
+### Microsoft Technology Associate
 <a href="https://www.credly.com/badges/d7ef8167-ee6c-4c61-89df-83a966252586/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Java.png" alt="Microsoft Certification Badge" width="125"/>
+  <img src="Badges/MTA Logo - Java.png" alt="Microsoft Technology Associate Certification Badge" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/2e5963c8-4015-4f6f-af82-03c8b8dbcaab/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Python.png" alt="Microsoft Certification Badge" width="125"/>
+  <img src="Badges/MTA Logo - Python.png" alt="Microsoft Certification Badge" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/321c7f04-84d0-472a-bcc2-f9d2b390cf57/public_url" target="_blank">
-  <img src="Badges/MTA Logo - JavaScript.png" alt="Microsoft Certification Badge" width="125"/>
+  <img src="Badges/MTA Logo - JavaScript.png" alt="Microsoft Certification Badge" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/9168171a-89ca-4fe8-b62d-35cf8d1e2136/public_url" target="_blank">
-  <img src="Badges/MTA Logo - HTML & CSS.png" alt="Microsoft Certification Badge" width="125"/>
+  <img src="Badges/MTA Logo - HTML & CSS.png" alt="Microsoft Certification Badge" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/8b76c02c-aad9-4a78-9a22-1fceb5462908/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Software Fundamentals.png" alt="Microsoft Certification Badge" width="125"/>
+  <img src="Badges/MTA Logo - Software Fundamentals.png" alt="Microsoft Certification Badge" width="130"/>
 </a>
 <a href="https://www.credly.com/badges/210e1613-180e-45fa-a6fa-20225f3ff035/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Database Fundamentals.png" alt="Microsoft Certification Badge" width="125"/>
+  <img src="Badges/MTA Logo - Database Fundamentals.png" alt="Microsoft Certification Badge" width="130"/>
 </a>
 
 

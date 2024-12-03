@@ -51,8 +51,20 @@
 </a>
 
 ### Oracle
-<a href="https://www.credly.com/badges/your-oracle-badge-id" target="_blank">
-  <img src="Badges/oracle-logo.png" alt="Oracle Certification Badge" width="150"/>
+<a href="https://www.credly.com/badges/405d0fb1-efe7-4f45-9ed1-fb1a8e6db56b/public_url" target="_blank">
+  <img src="Badges/OCFA Logo - Java.png" alt="Oracle Certification Badge" width="150"/>
+</a>
+
+### CompTIA
+<a href="https://www.credly.com/badges/bdfcc908-8295-4e08-b536-d562b55d7307/public_url" target="_blank">
+  <picture>
+      <img src="Badges/ITF+ Logo Certified WHITE.png" alt="CompTIA ITF+ Badge" width="150"/>
+  </picture>
+</a>
+<a href="https://www.credly.com/badges/205141e5-76fc-4e96-9a51-f1e803b5d8ad/public_url" target="_blank">
+  <picture>
+      <img src="Badges/Cloud Essentials+ Logo Certified WHITE.png" alt="CompTIA ITF+ Badge" width="150"/>
+  </picture>
 </a>
 
 ### Microsoft
@@ -68,18 +80,13 @@
 <a href="https://www.credly.com/badges/9168171a-89ca-4fe8-b62d-35cf8d1e2136/public_url" target="_blank">
   <img src="Badges/MTA Logo - HTML & CSS.png" alt="Microsoft Certification Badge" width="150"/>
 </a>
+<a href="https://www.credly.com/badges/8b76c02c-aad9-4a78-9a22-1fceb5462908/public_url" target="_blank">
+  <img src="Badges/MTA Logo - Software Fundamentals.png" alt="Microsoft Certification Badge" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/210e1613-180e-45fa-a6fa-20225f3ff035/public_url" target="_blank">
+  <img src="Badges/MTA Logo - Database Fundamentals.png" alt="Microsoft Certification Badge" width="150"/>
+</a>
 
-### CompTIA
-<a href="https://www.credly.com/badges/bdfcc908-8295-4e08-b536-d562b55d7307/public_url" target="_blank">
-  <picture>
-      <img src="Badges/ITF+ Logo Certified WHITE.png" alt="CompTIA ITF+ Badge" width="150"/>
-  </picture>
-</a>
-<a href="https://www.credly.com/badges/205141e5-76fc-4e96-9a51-f1e803b5d8ad/public_url" target="_blank">
-  <picture>
-      <img src="Badges/Cloud Essentials+ Logo Certified WHITE.png" alt="CompTIA ITF+ Badge" width="150"/>
-  </picture>
-</a>
 
 ---
 

@@ -56,17 +56,28 @@
 </a>
 
 ### Microsoft
-<a href="https://www.credly.com/badges/your-microsoft-badge-id" target="_blank">
-  <img src="Badges/microsoft-logo.png" alt="Microsoft Certification Badge" width="150"/>
+<a href="https://www.credly.com/badges/d7ef8167-ee6c-4c61-89df-83a966252586/public_url" target="_blank">
+  <img src="Badges/MTA Logo - Java.png" alt="Microsoft Certification Badge" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/2e5963c8-4015-4f6f-af82-03c8b8dbcaab/public_url" target="_blank">
+  <img src="Badges/MTA Logo - Python.png" alt="Microsoft Certification Badge" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/9168171a-89ca-4fe8-b62d-35cf8d1e2136/public_url" target="_blank">
+  <img src="Badges/MTA Logo - JavaScript.png" alt="Microsoft Certification Badge" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/321c7f04-84d0-472a-bcc2-f9d2b390cf57/public_url" target="_blank">
+  <img src="Badges/MTA Logo - HTML & CSS.png" alt="Microsoft Certification Badge" width="150"/>
 </a>
 
 ### CompTIA
 <a href="https://www.credly.com/badges/bdfcc908-8295-4e08-b536-d562b55d7307/public_url" target="_blank">
   <picture>
-      <!-- Dark mode logo -->
-      <source media="(prefers-color-scheme: dark)" srcset="Badges/ITF+ Logo Certified WHITE.png">
-      <!-- Light mode logo -->
-      <img src="Badges/ITF+ Logo Certified BLACK.png" alt="CompTIA ITF+ Badge" width="150"/>
+      <img src="Badges/ITF+ Logo Certified WHITE.png" alt="CompTIA ITF+ Badge" width="150"/>
+  </picture>
+</a>
+<a href="https://www.credly.com/badges/205141e5-76fc-4e96-9a51-f1e803b5d8ad/public_url" target="_blank">
+  <picture>
+      <img src="Badges/Cloud Essentials+ Logo Certified WHITE.png" alt="CompTIA ITF+ Badge" width="150"/>
   </picture>
 </a>
 
@@ -126,5 +137,3 @@
 ---
 
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-blue)](https://www.credly.com/badges/7e3695cb-427c-4bdb-919d-2e99e792d8aa/public_url)
-
-

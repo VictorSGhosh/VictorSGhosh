@@ -43,6 +43,14 @@
 - **Other**: Git, Agile/Scrum  
 
 ---
+## Credential Badges
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6587FDC9321328C29A409A08BA725610098E779A36DD6677B71C1261CB693BF" target="_blank">
+  <img src="https://catalog-education.oracle.com/ords/certview/sharebadge?id=F6587FDC9321328C29A409A08BA725610098E779A36DD6677B71C1261CB693BF" alt="Oracle Certification Badge" />
+</a>
+
+---
+
 ## 🏆 Awards
 - ⭐**NPTEL Star**: Recognized for exceptional performance across multiple technical courses in February 2020.
 
@@ -97,3 +105,5 @@
 ---
 
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-blue)](https://www.credly.com/badges/7e3695cb-427c-4bdb-919d-2e99e792d8aa/public_url)
+
+

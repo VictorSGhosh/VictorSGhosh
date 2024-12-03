@@ -75,22 +75,22 @@
 
 ### Microsoft Technology Associate
 <a href="https://www.credly.com/badges/d7ef8167-ee6c-4c61-89df-83a966252586/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Java.png" alt="Microsoft Technology Associate Certification Badge" width="130"/>
+  <img src="Badges/MTA Logo - Java.png" alt="Microsoft Technology Associate Certification Badge" width="135"/>
 </a>
 <a href="https://www.credly.com/badges/2e5963c8-4015-4f6f-af82-03c8b8dbcaab/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Python.png" alt="Microsoft Certification Badge" width="130"/>
+  <img src="Badges/MTA Logo - Python.png" alt="Microsoft Certification Badge" width="135"/>
 </a>
 <a href="https://www.credly.com/badges/321c7f04-84d0-472a-bcc2-f9d2b390cf57/public_url" target="_blank">
-  <img src="Badges/MTA Logo - JavaScript.png" alt="Microsoft Certification Badge" width="130"/>
+  <img src="Badges/MTA Logo - JavaScript.png" alt="Microsoft Certification Badge" width="135"/>
 </a>
 <a href="https://www.credly.com/badges/9168171a-89ca-4fe8-b62d-35cf8d1e2136/public_url" target="_blank">
-  <img src="Badges/MTA Logo - HTML & CSS.png" alt="Microsoft Certification Badge" width="130"/>
+  <img src="Badges/MTA Logo - HTML & CSS.png" alt="Microsoft Certification Badge" width="135"/>
 </a>
 <a href="https://www.credly.com/badges/8b76c02c-aad9-4a78-9a22-1fceb5462908/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Software Fundamentals.png" alt="Microsoft Certification Badge" width="130"/>
+  <img src="Badges/MTA Logo - Software Fundamentals.png" alt="Microsoft Certification Badge" width="135"/>
 </a>
 <a href="https://www.credly.com/badges/210e1613-180e-45fa-a6fa-20225f3ff035/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Database Fundamentals.png" alt="Microsoft Certification Badge" width="130"/>
+  <img src="Badges/MTA Logo - Database Fundamentals.png" alt="Microsoft Certification Badge" width="135"/>
 </a>
 
 
@@ -128,10 +128,19 @@
 
 ---
 
-## 📫 Let's Connect!  
-- 🌐 [Portfolio Website](https://victorsghosh.github.io/VictorSG.github.io/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/victor-sankar-ghosh)  
-
+## 📫 Let's Connect!
+<a href="https://www.linkedin.com/in/victor-sankar-ghosh" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30">
+</a>
+<a href="https://www.hackerrank.com/VictorSGhosh" target="_blank" style="display:inline-block; margin: 0px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="30">
+</a>
+<a href="https://leetcode.com/VictorSG/" target="_blank" style="display:inline-block; margin: 0px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30">
+</a>
+<a href="https://stackoverflow.com/users/7634312/victor-sankar-ghosh" target="_blank" style="display:inline-block; margin: 0px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow" width="30">
+</a>
 
 ---
 
@@ -148,5 +157,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSGhosh&layout=compact&theme=radical)  
 
 ---
-
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-blue)](https://www.credly.com/badges/7e3695cb-427c-4bdb-919d-2e99e792d8aa/public_url)

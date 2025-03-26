@@ -92,7 +92,7 @@
   <img src="Badges/OCFA Logo - Database.jpg" alt="Oracle Certified Foundations Associate Badge" width="150"/>
 </a>
 <a href="https://www.credly.com/badges/405d0fb1-efe7-4f45-9ed1-fb1a8e6db56b/public_url" target="_blank">
-  <img src="Badges/OCFA Logo - Java.png" alt="Oracle Certified Foundations Associate Badge" width="150"/>
+  <img src="Badges/OCFA Logo - Java.png" alt="Oracle Certified Foundations Associate Badge" width="160"/>
 </a>
 
 ### CompTIA

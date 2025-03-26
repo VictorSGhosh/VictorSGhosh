@@ -121,7 +121,7 @@
   <img src="Badges/MTA Logo - HTML & CSS.png" alt="Microsoft Certification Badge" width="135"/>
 </a>
 <a href="https://www.credly.com/badges/8b76c02c-aad9-4a78-9a22-1fceb5462908/public_url" target="_blank">
-  <img src="Badges/MTA Logo - Software Fundamentals.png" alt="Microsoft Certification Badge" width="135"/>
+  <img src="Badges/MTA Logo - Software Development Fundamentals.png" alt="Microsoft Certification Badge" width="135"/>
 </a>
 <a href="https://www.credly.com/badges/210e1613-180e-45fa-a6fa-20225f3ff035/public_url" target="_blank">
   <img src="Badges/MTA Logo - Database Fundamentals.png" alt="Microsoft Certification Badge" width="135"/>

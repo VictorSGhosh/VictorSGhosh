@@ -79,7 +79,7 @@
 ---
 ## 🏅 Credential Badges
 
-### Amazon Web Services
+### Amazon Web Services (AWS)
 <a href="https://www.credly.com/badges/7e3695cb-427c-4bdb-919d-2e99e792d8aa/public_url" target="_blank">
   <img src="Badges/AWS CP Logo.jpg" alt="AWS Certification Badge" width="150"/>
 </a>
@@ -95,7 +95,7 @@
   <img src="Badges/OCFA Logo - Java.png" alt="Oracle Certified Foundations Associate Badge" width="160"/>
 </a>
 
-### CompTIA
+### Computing Technology Industry Association (CompTIA®)
 <a href="https://www.credly.com/badges/bdfcc908-8295-4e08-b536-d562b55d7307/public_url" target="_blank">
   <picture>
       <img src="Badges/ITF Logo Certified WHITE.png" alt="CompTIA Certified ITF+ Badge" width="150"/>
@@ -104,6 +104,28 @@
 <a href="https://www.credly.com/badges/205141e5-76fc-4e96-9a51-f1e803b5d8ad/public_url" target="_blank">
   <picture>
       <img src="Badges/Cloud Essentials Logo Certified WHITE.png" alt="CompTIA Certified Cloud Essentials+ Badge" width="150"/>
+  </picture>
+</a>
+
+### Open Education and Development Group (OpenEDG®)
+<a href="https://www.credly.com/badges/b899b9ff-9dfa-415c-89b1-f3b9c29f543c/public_url" target="_blank">
+  <picture>
+      <img src="Badges/OpenEDG - PCEP.png" alt="CompTIA Certified ITF+ Badge" width="150"/>
+  </picture>
+</a>
+<a href="https://www.credly.com/badges/ab1cd1ff-e4de-49d1-b06d-80c8dbf583c4/public_url" target="_blank">
+  <picture>
+      <img src="Badges/OpenEDG - WDE.png" alt="CompTIA Certified Cloud Essentials+ Badge" width="150"/>
+  </picture>
+</a>
+<a href="https://www.credly.com/badges/bc420c97-8716-4e57-b82b-c9cf4485b764/public_url" target="_blank">
+  <picture>
+      <img src="Badges/OpenEDG - CLEP.png" alt="CompTIA Certified Cloud Essentials+ Badge" width="150"/>
+  </picture>
+</a>
+<a href="https://www.credly.com/badges/bafca0ec-7823-45f1-9653-fb6c43be31ed/public_url" target="_blank">
+  <picture>
+      <img src="Badges/OpenEDG - English for IT B1+.png" alt="CompTIA Certified Cloud Essentials+ Badge" width="150"/>
   </picture>
 </a>
 

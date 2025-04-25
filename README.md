@@ -207,6 +207,9 @@
 <a href="https://stackoverflow.com/users/7634312/victor-sankar-ghosh" target="_blank" style="display:inline-block; margin: 0px;">
   <img src="Icons/StackOverflow.svg" alt="StackOverflow" height="30" width="30">
 </a>
+<a href="https://www.postman.com/victorsghosh" target="_blank" style="display:inline-block; margin: 0px;">
+  <img src="Icons/Postman.png" alt="Postman" height="30" width="30">
+</a>
 <a href="https://profile.indeed.com/p/victorg-fmqvcpv" target="_blank" style="display:inline-block; margin: 0px;">
   <img src="Icons/Indeed.png" alt="Indeed" height="30" width="30">
 </a>

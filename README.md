@@ -96,12 +96,10 @@
 </a>
 
 ### Postman API Fundamentals Student Expert
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-  <a href="https://api.badgr.io/public/assertions/ZOazjhxDQ6e8xhPUe8Xjaw">
-    <img width="150px" height="150px" src="https://api.badgr.io/public/assertions/ZOazjhxDQ6e8xhPUe8Xjaw/image">
-  </a>
-  <script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script>
-</blockquote>
+<a href="https://api.badgr.io/public/assertions/ZOazjhxDQ6e8xhPUe8Xjaw">
+  <img width="150px" height="150px" src="https://api.badgr.io/public/assertions/ZOazjhxDQ6e8xhPUe8Xjaw/image">
+</a>  
+
 
 ### Computing Technology Industry Association (CompTIA®)
 <a href="https://www.credly.com/badges/bdfcc908-8295-4e08-b536-d562b55d7307/public_url" target="_blank">

@@ -23,58 +23,77 @@
 - **🌐 Laboratory for Computer Science Research**:  
   Partnered with researchers from Boston University and Gallaudet University to develop a desktop application that improves accessibility for the deaf community through ASL video annotation.
 
----
-## 💻 Skills & Tools  
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%; vertical-align: top;">
-      <strong>Languages:</strong> Python, Java, SQL, Bash  
-    </td>
-    <td style="width: 50%; vertical-align: top;">      
-      <strong>Package Repositories:</strong> Anaconda Cloud, PyPI
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <strong>Databases:</strong> PostgresSQL, MySQL, MongoDB
-    </td>
-    <td style="vertical-align: top;">
-      <strong>Version Control:</strong> GitHub, BitBucket, SVN
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <strong>Cloud:</strong> AWS, Salesforce, Azure
-    </td>
-    <td style="vertical-align: top;">
-      <strong>DevOps Tools:</strong> Docker, Kubernetes, Jenkins  
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <strong>Web & API Technologies:</strong> REST API
-    </td>
-    <td style="vertical-align: top;">
-      <strong>Testing Tools:</strong> Postman
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <strong>GUI Frameworks:</strong> Swing, JavaFX, Tkinter 
-    </td>
-    <td style="vertical-align: top;">
-      <strong>Project Management:</strong> Jira, Monday.com 
-    </td>
-  </tr>
-  <tr>
-    <td style="vertical-align: top;">
-      <strong>Data Formats:</strong> JSON, YAML, XML
-    </td>
-    <td style="vertical-align: top;">
-      <strong>Operating Systems:</strong> Unix, Linux, Windows, macOS  
-    </td>
-  </tr>
-</table>
+--- 
+
+
+## 💻 Tech Stack
+
+### 🧠 Programming Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Swing-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge&logo=python&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge&logo=python&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=apacheant&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=python&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+### 🌐 Web & API
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23cb171e.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=w3c&logoColor=white)
+
+### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🧰 Project & Team
+![JIRA](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-ff4d4d?style=for-the-badge&logo=monday&logoColor=white)
+
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 ## 🏅 Credential Badges
@@ -233,6 +252,7 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorSGhosh&show_icons=true&theme=radical" height="200"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSGhosh&theme=radical&hide_border=false" height="200"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSGhosh&layout=compact&theme=radical&card_height=200" height="200"/>
 </div>
 

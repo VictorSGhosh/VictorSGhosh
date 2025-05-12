@@ -252,7 +252,7 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorSGhosh&show_icons=true&theme=radical" height="200"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSGhosh&theme=radical&hide_border=false" height="200"/> 
+  <img src="https://streak-stats.demolab.com/?user=VictorSGhosh&theme=radical&hide_border=false" height="200"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSGhosh&layout=compact&theme=radical&card_height=200" height="200"/>
 </div>
 

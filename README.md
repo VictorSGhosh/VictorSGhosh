@@ -249,11 +249,20 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub & Leetcode Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorSGhosh&show_icons=true&theme=radical" height="200"/> 
   <img src="https://streak-stats.demolab.com/?user=VictorSGhosh&theme=radical&hide_border=false" height="200"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSGhosh&layout=compact&theme=radical&card_height=200" height="200"/>
+  <div style="width: 100%; margin-top: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=VictorSGhosh&theme=radical&no-frame=true&column=8" width="100%"/>
+  </div>
 </div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/VictorSG?theme=dark&font=Fira+Code&ext=contest)
+
+
+
+
 
 ---

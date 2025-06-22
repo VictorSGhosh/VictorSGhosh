@@ -114,6 +114,11 @@
   <img src="Badges/OCFA Logo - Java.png" alt="Oracle Certified Foundations Associate Badge" width="160"/>
 </a>
 
+### GitHub
+<a href="https://www.credly.com/badges/da8668c1-bbfd-43b0-b0c2-9b7642de1a35/public_url" target="_blank">
+  <img width="150px" height="150px" src="Badges/GitHub Foundations.png">
+</a>  
+
 ### Postman API Fundamentals Student Expert
 <a href="https://api.badgr.io/public/assertions/ZOazjhxDQ6e8xhPUe8Xjaw">
   <img width="150px" height="150px" src="https://api.badgr.io/public/assertions/ZOazjhxDQ6e8xhPUe8Xjaw/image">
@@ -250,7 +255,7 @@
 ---
 
 ## 📊 GitHub & Leetcode Stats  
-<div align="center">
+<div>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=VictorSGhosh&show_icons=true&theme=radical" height="200"/> 
     <img src="https://streak-stats.demolab.com/?user=VictorSGhosh&theme=radical&hide_border=false" height="200"/>
@@ -262,9 +267,5 @@
 </div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VictorSG?theme=dark&font=Fira+Code&ext=contest)
-
-
-
-
 
 ---
